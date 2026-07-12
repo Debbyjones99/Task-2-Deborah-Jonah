@@ -1,4 +1,4 @@
-# Task 2: Ecploratory Dat Analysis (EDA)
+# Task 2: Exploratory Data Analysis (EDA)
 
 ## Objective
 
