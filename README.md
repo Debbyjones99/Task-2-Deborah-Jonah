@@ -48,7 +48,7 @@ The goal of this project was to explore the dataset to identify patterns, trends
 
 ## Dashboard Overview
 
-<img width="622" height="372" alt="Dashboard" src="https://github.com/Debbyjones99/Task-2-Deborah-Jonah/tree/main/EDA" />
+<img width="622" height="372" alt="Dashboard" src="https://github.com/Debbyjones99/Task-2-Deborah-Jonah/tree/main/EDA"/>
 
 An interactive Excel dashboard was created to visualize key business metrics and provide insights into sales performance, customer behavior, and product trends.
 
